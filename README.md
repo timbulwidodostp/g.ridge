@@ -1,6 +1,8 @@
 # g.ridge
 Generalized ridge regression for linear models Use g.ridge With (In) R Software
 
+https://www.youtube.com/watch?v=4K-oSVe2swo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
